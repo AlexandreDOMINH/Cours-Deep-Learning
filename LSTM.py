@@ -3,7 +3,7 @@
 """
 Created on Sun Aug 19 22:59:32 2018
 
-@author: denisdo
+@author: alexandredo
 """
 
 # Load libraries
