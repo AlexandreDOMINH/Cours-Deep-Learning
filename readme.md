@@ -1,8 +1,7 @@
+
+This is a directory content the useful ressources for DeepLearning Implementation
+
 # Keras resources
-
-This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library.
-
-If you have a high-quality tutorial or project to add, please open a PR.
 
 ## Official starter resources
 
